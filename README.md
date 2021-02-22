@@ -6,7 +6,7 @@ This book covers the following topics:
 - Prior & Posterior Probability
 - Binomial, Beta & Normal Distribution
 - Probability Mass function, Probability Density function, Cumulative Density function & Percentile function
-- Parameter estimation
+- Parameter estimation & Confidence Interval
 - Bayesian A/B testing & monte carlo simulation
 - Bayes Factor, Prior & Posterior Odds
 - Hypotheses testing
