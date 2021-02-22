@@ -9,5 +9,6 @@ This book covers the following topics:
 - Parameter estimation
 - Bayesian A/B testing & monte carlo simulation
 - Bayes Factor, Prior & Posterior Odds
+- Hypotheses testing
 - "Bayesian Reasoning"
 
